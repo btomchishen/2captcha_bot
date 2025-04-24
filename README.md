@@ -21,8 +21,7 @@ A simple Telegram bot built with Python that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/2captcha-telegram-bot.git
-cd 2captcha-telegram-bot
+git clone https://github.com/btomchishen/2captcha_bot.git
 ```
 
 ### 2. Create a .env file based on example.env
