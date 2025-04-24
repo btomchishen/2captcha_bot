@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  captcha-bot:
+    build: .
+    container_name: captcha_bot
+    restart: always
+    env_file: .env
